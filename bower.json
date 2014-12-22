@@ -1,6 +1,6 @@
 {
   "name": "bower-webfontloader",
-  "version": "1.5.6",
+  "version": "1.5.10",
   "main": "webfont.js",
   "license": "Apache-2.0"
 }
